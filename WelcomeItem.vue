@@ -3,7 +3,7 @@
     <i>
       <slot name="icon"></slot>
     </i>
-    jgt
+    jgt 22
     <div class="details">
       <h3>
         <slot name="heading"></slot>
